@@ -60,7 +60,7 @@ A comprehensive list of learning resources for Computer Science.
 - [Georgia Tech's Compilers: Theory and Practice](https://www.udacity.com/course/compilers-theory-and-practice--ud168)
 - [Stanford's Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
 - [Bisqwit's Create a Compiler Series](https://www.youtube.com/playlist?list=PLzLzYGEbdY5n9ITKUqOuRjXkRU5tMW2Sd)
-- [Writer an Compiler in Go by Thorsten Ball](https://compilerbook.com/)
+- [Write an Compiler in Go by Thorsten Ball](https://compilerbook.com/)
 
 ---
 
@@ -105,8 +105,8 @@ A comprehensive list of learning resources for Computer Science.
 
 ## Advanced
 - [Gophercises by Jon Calhoun](https://gophercises.com/)
-- [Writer an Interpreter in Go by Thorsten Ball](https://interpreterbook.com/)
-- [Writer an Compiler in Go by Thorsten Ball](https://compilerbook.com/)
+- [Write an Interpreter in Go by Thorsten Ball](https://interpreterbook.com/)
+- [Write an Compiler in Go by Thorsten Ball](https://compilerbook.com/)
 - [Gaming in Go by Velovix](https://www.youtube.com/playlist?list=PLOXvU5Ov-cqpjd1_OnczdizY0I64OfH-T)
 - [Games with Go by Jack Mott](https://www.youtube.com/watch?v=9D4yH7e_ea8&list=PLDZujg-VgQlZUy1iCqBbe5faZLMkA3g2x)
 - [Flappy Bird in Go by JustForFunc](https://www.youtube.com/watch?v=aYkxFbd6luY)
@@ -122,7 +122,7 @@ A comprehensive list of learning resources for Computer Science.
 
 # Interpreters & Bytecode Virtual Machines
 - [Crafting Interpreters by Robert Nystrom](http://www.craftinginterpreters.com/)
-- [Writer an Interpreter in Go by Thorsten Ball](https://interpreterbook.com/)
+- [Write an Interpreter in Go by Thorsten Ball](https://interpreterbook.com/)
 - [So You Want to Build a Language VM by Fletcher Haynes](https://blog.subnetzero.io/post/building-language-vm-part-00/)
 - [Simple Interpreter by Ruslan Spivak](https://ruslanspivak.com/lsbasi-part1/)
 - [Stack-based Virtual Machine by Philip Bohun](https://www.youtube.com/playlist?list=PLSiFUSQSRYAOFwfP-aMzXJlWKVyIuWfPU)
