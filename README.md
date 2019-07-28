@@ -8,6 +8,26 @@ A comprehensive list of learning resources for Computer Science. By no means is 
 
 ---
 
+# Alexa Tutorials
+- [Learn Alexa Skills by Codeacademy](https://www.codecademy.com/learn/learn-alexa)
+- [Tutorial by Amazon](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/tutorials/fact-skill-1)
+- [Building Alexa Skills from Scratch](https://www.youtube.com/watch?list=PL2KJmkHeYQTNwlZqLh_ptZhSNZf93e8Sp&v=1cx_I0kARnU)
+- [Alexa Skills Development](https://www.qwiklabs.com/quests/19)
+
+---
+
+# Android Development
+- [Android Basics by Udacity](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
+- [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
+- [Codelabs for Android by Google](https://developer.android.com/courses/fundamentals-training/toc-v2)
+- [Flutter widgets](https://flutter.dev/docs/development/ui/widgets-intro)
+- [Android Examples](https://github.com/nisrulz/android-examples)
+- [Flutter Examples](https://github.com/nisrulz/flutter-examples)
+- [Build Native Mobile Apps with Flutter by Udacity](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)
+- [Flutter Codelabs](https://flutter.dev/docs/codelabs)
+
+---
+
 # C
 
 ## Beginner
@@ -52,11 +72,6 @@ A comprehensive list of learning resources for Computer Science. By no means is 
 - [C++ Language Reference by Microsoft](https://docs.microsoft.com/en-us/cpp/cpp/cpp-language-reference?view=vs-2019)
 
 ---
-# Data Science
-- [IBM Data Science Professional Certificate](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)
-- [HarvardX's Data Science Professional Certificate](https://www.edx.org/professional-certificate/harvardx-data-science)
-
----
 
 # Compilers
 - [Georgia Tech's Compilers: Theory and Practice](https://www.udacity.com/course/compilers-theory-and-practice--ud168)
@@ -64,6 +79,36 @@ A comprehensive list of learning resources for Computer Science. By no means is 
 - [Bisqwit's Create a Compiler Series](https://www.youtube.com/playlist?list=PLzLzYGEbdY5n9ITKUqOuRjXkRU5tMW2Sd)
 - [Write an Compiler in Go by Thorsten Ball](https://compilerbook.com/)
 
+---
+# Data Science
+- [IBM Data Science Professional Certificate](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)
+- [HarvardX's Data Science Professional Certificate](https://www.edx.org/professional-certificate/harvardx-data-science)
+
+---
+
+# Deep Learning 
+- [deeplearning.ai](https://www.deeplearning.ai/)
+- [Deep Learning by Kaggle](https://www.kaggle.com/learn/deep-learning/)
+- [Learn Deep Learning in 6 weeks by Siraj Raval](https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks)
+- [Top Deep Learning GitHub repositories](https://github.com/mbadry1/Top-Deep-Learning)
+- [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+
+## Trending Libraries 
+- [Tensorflow](https://www.tensorflow.org/tutorials)
+- [Keras](https://keras.io/)
+- [Caffe](https://caffe.berkeleyvision.org/) 
+- [Theano](http://deeplearning.net/software/theano/)
+- [Microsoft CNTK](https://docs.microsoft.com/en-us/cognitive-toolkit/)
+- [PyTorch](https://pytorch.org/) 
+
+---
+
+# Docker
+- [Docker Official Documentation](https://docs.docker.com/)
+- [Docker YouTube Tutorials](https://www.youtube.com/watch?v=h0NCZbHjIpY&list=PL9ooVrP1hQOHUKuqGuiWLQoJ-LD25KxI5)
+- [Docker by Udemy](https://www.udemy.com/docker-tutorial-for-devops-run-docker-containers/)
+- [A Beginner-Friendly Introduction to Containers, VMs and Docker by Preethi Kasireddy on freeCodeCamp](https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b/)
+- [Learn Docker in 12 Minutes by Jake Wright](https://www.youtube.com/watch?v=YFl2mCHdv24)
 ---
 
 # Game Development
@@ -94,6 +139,16 @@ A comprehensive list of learning resources for Computer Science. By no means is 
 - [OneLoneCoder/javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA)
 - [Harold Serrano](https://www.haroldserrano.com/)
 
+---
+
+# Git and GitHub
+- [How to use Git and GitHub by Udacity](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+- [Version Control with Git by Udacity](https://www.udacity.com/course/version-control-with-git--ud123)
+- [Git and GitHub from Scratch](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+- [Pro Git Book](https://git-scm.com/book/en/v2)
+- [Git by Progate](https://progate.com/languages/git)
+- [Interactive Git Tutorial](https://www.katacoda.com/courses/git)
+- [Interactive Tutorial on Git Branching](https://learngitbranching.js.org/)
 ---
 
 # Go
@@ -167,57 +222,6 @@ A comprehensive list of learning resources for Computer Science. By no means is 
 
 ---
 
-# Ruby 
-- [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
-- [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/)
-- [RailCasts](http://railscasts.com/)
-
----
-
-# MongoDB
-- [MongoDB Full Tutorial](https://www.quackit.com/mongodb/tutorial/)
-
----
-
-# Alexa Tutorials
-- [Learn Alexa Skills by Codeacademy](https://www.codecademy.com/learn/learn-alexa)
-- [Tutorial by Amazon](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/tutorials/fact-skill-1)
-- [Building Alexa Skills from Scratch](https://www.youtube.com/watch?list=PL2KJmkHeYQTNwlZqLh_ptZhSNZf93e8Sp&v=1cx_I0kARnU)
-- [Alexa Skills Development](https://www.qwiklabs.com/quests/19)
-
----
-
-# Git and GitHub
-- [How to use Git and GitHub by Udacity](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
-- [Version Control with Git by Udacity](https://www.udacity.com/course/version-control-with-git--ud123)
-- [Git and GitHub from Scratch](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
-- [Pro Git Book](https://git-scm.com/book/en/v2)
-- [Git by Progate](https://progate.com/languages/git)
-
----
-
-# Docker
-- [Docker Official Documentation](https://docs.docker.com/)
-- [Docker YouTube Tutorials](https://www.youtube.com/watch?v=h0NCZbHjIpY&list=PL9ooVrP1hQOHUKuqGuiWLQoJ-LD25KxI5)
-- [Docker by Udemy](https://www.udemy.com/docker-tutorial-for-devops-run-docker-containers/)
-
----
-
-
-# Android Development
-- [Android Basics by Udacity](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
-- [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
-- [Codelabs for Android by Google](https://developer.android.com/courses/fundamentals-training/toc-v2)
-- [Flutter widgets](https://flutter.dev/docs/development/ui/widgets-intro)
-- [Android Examples](https://github.com/nisrulz/android-examples)
-- [Flutter Examples](https://github.com/nisrulz/flutter-examples)
-- [Build Native Mobile Apps with Flutter by Udacity](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)
-- [Flutter Codelabs](https://flutter.dev/docs/codelabs)
-
----
-
-
-
 # Machine Learning
 
 You should start as per this road-map: Python, Mathematics, ML Basics, advanced ML and Deep Learning. 
@@ -248,20 +252,10 @@ You should start as per this road-map: Python, Mathematics, ML Basics, advanced 
 
 ---
 
-# Deep Learning 
-- [deeplearning.ai](https://www.deeplearning.ai/)
-- [Deep Learning by Kaggle](https://www.kaggle.com/learn/deep-learning/)
-- [Learn Deep Learning in 6 weeks by Siraj Raval](https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks)
-- [Top Deep Learning GitHub repositories](https://github.com/mbadry1/Top-Deep-Learning)
-- [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
-
-## Trending Libraries 
-- [Tensorflow](https://www.tensorflow.org/tutorials)
-- [Keras](https://keras.io/)
-- [Caffe](https://caffe.berkeleyvision.org/) 
-- [Theano](http://deeplearning.net/software/theano/)
-- [Microsoft CNTK](https://docs.microsoft.com/en-us/cognitive-toolkit/)
-- [PyTorch](https://pytorch.org/) 
+# MongoDB
+- [MongoDB Full Tutorial by Edureka](https://www.quackit.com/mongodb/tutorial/)
+- [MongoDB Tutorial by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u)
+- [MongoDB Crash Course by Traversy Media](https://www.youtube.com/watch?v=-56x56UppqQ)
 
 ---
 
@@ -359,6 +353,14 @@ Check out the following channels on YouTube which build a lot of stuff with Node
 - [Programming With Mosh](https://codewithmosh.com/p/mastering-react)
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [Scrimba](https://scrimba.com/g/glearnreact)
+
+---
+
+
+# Ruby 
+- [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
+- [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/)
+- [RailCasts](http://railscasts.com/)
 
 ---
 
