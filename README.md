@@ -1,4 +1,3 @@
-![banner](https://rohitawate.github.io/images/learning_banner.jpg)
 # Learning Resources
 A comprehensive list of learning resources for Computer Science. By no means is this list exhaustive. If you wish to contribute to this repository, please consider starting a PR. If you're new to GitHub, please refer [this](https://github.com/firstcontributions/first-contributions?source=post_page---------------------------). 
 
@@ -20,8 +19,10 @@ A comprehensive list of learning resources for Computer Science. By no means is 
 - [Android Basics by Udacity](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
 - [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
 - [Codelabs for Android by Google](https://developer.android.com/courses/fundamentals-training/toc-v2)
-- [Flutter widgets](https://flutter.dev/docs/development/ui/widgets-intro)
 - [Android Examples](https://github.com/nisrulz/android-examples)
+
+## Flutter
+- [Flutter Widgets](https://flutter.dev/docs/development/ui/widgets-intro)
 - [Flutter Examples](https://github.com/nisrulz/flutter-examples)
 - [Build Native Mobile Apps with Flutter by Udacity](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)
 - [Flutter Codelabs](https://flutter.dev/docs/codelabs)
@@ -178,7 +179,7 @@ A comprehensive list of learning resources for Computer Science. By no means is 
 ---
 
 # Interpreters & Bytecode Virtual Machines
-- [Crafting Interpreters by Robert Nystrom](http://www.craftinginterpreters.com/)
+- [Crafting Interpreters by Robert Nystrom](http://www.craftinginterpreters.com/) _(cannot recommend this gem enough)_
 - [Write an Interpreter in Go by Thorsten Ball](https://interpreterbook.com/)
 - [So You Want to Build a Language VM by Fletcher Haynes](https://blog.subnetzero.io/post/building-language-vm-part-00/)
 - [Simple Interpreter by Ruslan Spivak](https://ruslanspivak.com/lsbasi-part1/)
@@ -263,7 +264,9 @@ You should start as per this road-map: Python, Mathematics, ML Basics, advanced 
 - [NLP Fundamentals in Python by DataCamp](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python?utm_source=adwords_ppc&utm_campaignid=1455363063&utm_adgroupid=65083631908&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=1t3&utm_creative=278443377101&utm_targetid=dsa-498578052124&utm_loc_interest_ms=&utm_loc_physical_ms=1007788&gclid=Cj0KCQjwj_XpBRCCARIsAItJiuQDOjEmd6nHytxpe8rf2o6iDOIy5KUvLwnNY-pb5uEbvE2H7jOYGm8aAslbEALw_wcB)
 - [NLP by Coursera](https://www.coursera.org/learn/language-processing)
 - [Natural Language Processing by Udacity](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892)
-- [Friendly Introduction to Natural Language Processing](https://dev.to/jaydeepborkar/introduction-to-natural-language-processing-part-1--59gd)_(shameless self-promotion by [Jaydeep Borkar](https://github.com/jaydeepborkar))_
+- [Friendly Introduction to Natural Language Processing](https://dev.to/jaydeepborkar/introduction-to-natural-language-processing-part-1--59gd)_ (shameless self-promotion by [Jaydeep Borkar](https://github.com/jaydeepborkar))_
+
+---
 
 # Node.js
 
