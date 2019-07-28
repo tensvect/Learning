@@ -222,7 +222,7 @@ A comprehensive list of learning resources for Computer Science. By no means is 
 
 You should start as per this road-map: Python, Mathematics, ML Basics, advanced ML and Deep Learning. 
 ## Math for ML
-- [statistics & Probability](https://www.khanacademy.org/math/statistics-probability)
+- [Statistics & Probability](https://www.khanacademy.org/math/statistics-probability)
 - [Partial Derivatives](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives)
 - [Derivatives](https://www.khanacademy.org/math/calculus-1/cs1-derivatives-definition-and-basic-rules)
 - [Linear Algebra](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8) 
@@ -376,3 +376,11 @@ Feel free to reach out to anyone of us mentioned below if you need any help, or 
 
 - Jaydeep Borkar (jaijborkar@gmail.com)
 - Rohit Awate (rohitawate121@gmail.com)
+
+---
+
+# More by Tensvect
+- [Scholarship and Programs](https://github.com/tensvect/Scholarships-and-Programs)
+- [Conferences and Events](https://github.com/tensvect/conferences-and-events)
+- [Communities](https://github.com/tensvect/Communities)
+- [Contributors](https://github.com/tensvect/Contributors)
