@@ -33,6 +33,8 @@ A comprehensive list of learning resources for Computer Science.
 
 ## Beginner
 - [C++ by Giraffe Academy](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
+- [C++ - Google for Education](https://developers.google.com/edu/c++/) 
+- [C++ for Programmers by Udacity](https://www.udacity.com/course/c-for-programmers--ud210)
 
 ## Advanced/Modern
 - [C++ 11 by Bo Qian](https://www.youtube.com/playlist?list=PL5jc9xFGsL8FWtnZBeTqZBbniyw0uHyaH)
@@ -165,13 +167,109 @@ A comprehensive list of learning resources for Computer Science.
 
 ---
 
+# Ruby 
+- [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
+- [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/)
+- [RailCasts](http://railscasts.com/)
+
+---
+
+# MongoDB
+- [MongoDB Full Tutorial](https://www.quackit.com/mongodb/tutorial/)
+
+---
+
+# Alexa Tutorials
+- [Learn Alexa Skills by Codeacademy](https://www.codecademy.com/learn/learn-alexa)
+- [Tutorial by Amazon](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/tutorials/fact-skill-1)
+- [Building Alexa Skills from Scratch](https://www.youtube.com/watch?list=PL2KJmkHeYQTNwlZqLh_ptZhSNZf93e8Sp&v=1cx_I0kARnU)
+- [Alexa Skills Development](https://www.qwiklabs.com/quests/19)
+
+---
+
+# Git and GitHub
+- [How to use Git and GitHub | Udacity]
+- [Version Control with Git | Udacity](https://www.udacity.com/course/version-control-with-git--ud123)
+- [Git and GitHub from Scratch](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+- [Pro Git Book](https://git-scm.com/book/en/v2)
+- [Git | Progate](https://progate.com/languages/git)
+
+---
+
+# Docker
+- [Docker Official Documentation](https://docs.docker.com/)
+- [Docker YouTube Tutorials](https://www.youtube.com/watch?v=h0NCZbHjIpY&list=PL9ooVrP1hQOHUKuqGuiWLQoJ-LD25KxI5)
+- [Docker | Udemy](https://www.udemy.com/docker-tutorial-for-devops-run-docker-containers/)
+
+---
+
+
+# Android Development
+- [Android Basics by Udacity](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
+- [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
+- [Codelabs for Android by Google](https://developer.android.com/courses/fundamentals-training/toc-v2)
+- [Flutter widgets](https://flutter.dev/docs/development/ui/widgets-intro)
+- [Android Examples](https://github.com/nisrulz/android-examples)
+- [Flutter Examples](https://github.com/nisrulz/flutter-examples)
+- [Build Native Mobile Apps with Flutter by Udacity](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)
+- [Flutter Codelabs](https://flutter.dev/docs/codelabs)
+
+---
+
+
+
 # Machine Learning
+
+You should start as per this road-map: Python, Mathematics, ML Basics, advanced ML and Deep Learning. 
+## Math for ML
+- [statistics & Probability](https://www.khanacademy.org/math/statistics-probability)
+- [Partial Derivatives](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives)
+- [Derivatives](https://www.khanacademy.org/math/calculus-1/cs1-derivatives-definition-and-basic-rules)
+- [Linear Algebra](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8) 
+
+
+## Machine Learning courses
 - [Stanford's Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
 - [University of Washington's Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning)
 - [MITx's Machine Learning with Python: From Linear Models to Deep Learning](https://courses.edx.org/courses/course-v1:MITx+6.86x+1T2019/course/)
 - [StatQuest's Machine Learning Series](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
+- [Machine Learning Nanodegree Program by Udacity](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
+- [Reinforcement Learning by Udacity](https://www.udacity.com/course/reinforcement-learning--ud600)
+- [Machine Learning with Python by Sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
+- [Machine Learning Crash Course by Google](https://developers.google.com/machine-learning/crash-course/ml-intro)
+- [Kaggle](https://www.kaggle.com/competitions) - Highly recommended. Start playing around Titanic problem and strengthen your ML basics.
+- [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) 
+- [KDnuggets](https://www.kdnuggets.com/) 
+- [Machine Learning Reipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
+
+
+## Books
+- [Introduction to Statistical Learning](https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf)
 
 ---
+
+# Deep Learning 
+- [deeplearning.ai](https://www.deeplearning.ai/)
+- [Deep Learning by Kaggle](https://www.kaggle.com/learn/deep-learning/)
+- [Learn Deep Learning in 6 weeks by Siraj Raval](https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks)
+- [Top Deep Learning GitHub repositories](https://github.com/mbadry1/Top-Deep-Learning)
+- [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+
+## Trending Libraries 
+- [Tensorflow](https://www.tensorflow.org/tutorials)
+- [Keras](https://keras.io/)
+- [Caffe](https://caffe.berkeleyvision.org/) 
+- [Theano](http://deeplearning.net/software/theano/)
+- [Microsoft CNTK](https://docs.microsoft.com/en-us/cognitive-toolkit/)
+- [PyTorch](https://pytorch.org/) 
+
+---
+
+# Natural Language Processing 
+- [NLP Fundamentals in Python by DataCamp](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python?utm_source=adwords_ppc&utm_campaignid=1455363063&utm_adgroupid=65083631908&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=1t3&utm_creative=278443377101&utm_targetid=dsa-498578052124&utm_loc_interest_ms=&utm_loc_physical_ms=1007788&gclid=Cj0KCQjwj_XpBRCCARIsAItJiuQDOjEmd6nHytxpe8rf2o6iDOIy5KUvLwnNY-pb5uEbvE2H7jOYGm8aAslbEALw_wcB)
+- [NLP | Coursera](https://www.coursera.org/learn/language-processing)
+- [Natural Language Processing by Udacity](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892)
+- [Friendly Introduction to Natural Language Processing](https://dev.to/jaydeepborkar/introduction-to-natural-language-processing-part-1--59gd)_(shameless self-promotion by [Jaydeep Borkar](https://github.com/jaydeepborkar))_
 
 # Node.js
 
