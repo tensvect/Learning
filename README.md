@@ -110,6 +110,7 @@ A comprehensive list of learning resources for Computer Science. By no means is 
 - [Docker by Udemy](https://www.udemy.com/docker-tutorial-for-devops-run-docker-containers/)
 - [A Beginner-Friendly Introduction to Containers, VMs and Docker by Preethi Kasireddy on freeCodeCamp](https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b/)
 - [Learn Docker in 12 Minutes by Jake Wright](https://www.youtube.com/watch?v=YFl2mCHdv24)
+
 ---
 
 # Game Development
@@ -150,6 +151,7 @@ A comprehensive list of learning resources for Computer Science. By no means is 
 - [Git by Progate](https://progate.com/languages/git)
 - [Interactive Git Tutorial](https://www.katacoda.com/courses/git)
 - [Interactive Tutorial on Git Branching](https://learngitbranching.js.org/)
+
 ---
 
 # Go
@@ -374,6 +376,7 @@ Check out the following channels on YouTube which build a lot of stuff with Node
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 - [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
 - [Scrimba](https://scrimba.com/)
+
 ---
 
 
