@@ -188,7 +188,7 @@ A comprehensive list of learning resources for Computer Science.
 ---
 
 # Git and GitHub
-- [How to use Git and GitHub | Udacity]
+- [How to use Git and GitHub | Udacity](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 - [Version Control with Git | Udacity](https://www.udacity.com/course/version-control-with-git--ud123)
 - [Git and GitHub from Scratch](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 - [Pro Git Book](https://git-scm.com/book/en/v2)
