@@ -1,6 +1,6 @@
 ![banner](https://rohitawate.github.io/images/learning_banner.jpg)
 # Learning Resources
-A comprehensive list of learning resources for Computer Science.
+A comprehensive list of learning resources for Computer Science. By no means is this list exhaustive. If you wish to contribute to this repository, please consider starting a PR. If you're new to GitHub, please refer [this](https://github.com/firstcontributions/first-contributions?source=post_page---------------------------). 
 
 # Similar Lists
 - [Daniel Stefanovic on GitHub: Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
