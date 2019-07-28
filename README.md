@@ -264,7 +264,7 @@ You should start as per this road-map: Python, Mathematics, ML Basics, advanced 
 - [NLP Fundamentals in Python by DataCamp](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python?utm_source=adwords_ppc&utm_campaignid=1455363063&utm_adgroupid=65083631908&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=1t3&utm_creative=278443377101&utm_targetid=dsa-498578052124&utm_loc_interest_ms=&utm_loc_physical_ms=1007788&gclid=Cj0KCQjwj_XpBRCCARIsAItJiuQDOjEmd6nHytxpe8rf2o6iDOIy5KUvLwnNY-pb5uEbvE2H7jOYGm8aAslbEALw_wcB)
 - [NLP by Coursera](https://www.coursera.org/learn/language-processing)
 - [Natural Language Processing by Udacity](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892)
-- [Friendly Introduction to Natural Language Processing](https://dev.to/jaydeepborkar/introduction-to-natural-language-processing-part-1--59gd)_ (shameless self-promotion by [Jaydeep Borkar](https://github.com/jaydeepborkar))_
+- [Friendly Introduction to Natural Language Processing](https://dev.to/jaydeepborkar/introduction-to-natural-language-processing-part-1--59gd) _(shameless self-promotion by [Jaydeep Borkar](https://github.com/jaydeepborkar))_
 
 ---
 
