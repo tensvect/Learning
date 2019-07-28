@@ -369,3 +369,10 @@ Check out the following channels on YouTube which build a lot of stuff with Node
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 - [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
 - [Scrimba](https://scrimba.com/)
+---
+
+
+Feel free to reach out to anyone of us mentioned below if you need any help, or wish to discuss anything, or perhaps just a random chat. Flashing conversations are something even we like. Yes, we do reply to emails.
+
+- Jaydeep Borkar (jaijborkar@gmail.com)
+- Rohit Awate (rohitawate121@gmail.com)
