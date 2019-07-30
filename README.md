@@ -294,6 +294,13 @@ Check out the following channels on YouTube which build a lot of stuff with Node
 
 ---
 
+# OAuth 2.0 Authorization Framework
+- [OAuth 2.0: An Overview](https://www.youtube.com/watch?v=CPbvxxslDTU)
+- [OAuth 2.0 by Nate Barbettini](https://www.youtube.com/watch?v=996OiexHze0)
+- [An Introduction to OAuth 2 by the DigitalOcean Community](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
+
+---
+
 # OpenGL
 
 ## Video Tutorials with C++
@@ -361,6 +368,22 @@ Check out the following channels on YouTube which build a lot of stuff with Node
 
 ---
 
+# Redis
+- [Crash Course by Traversy Media](https://www.youtube.com/watch?v=Hbt56gFj998)
+- [Try Redis](https://try.redis.io/)
+- [Official Documentation](https://redis.io/documentation)
+- [Writing System Software: A series about Redis internals by its creator, Salvatore Sanfilippo](https://www.youtube.com/playlist?list=PLrEMgOSrS_3fghr8ez63xKFNF-BA6Pz13)
+- [Redis Source Code on GitHub](https://github.com/antirez/redis)
+
+---
+
+# REST
+- [Building REST APIs with JAX-RS by Java Brains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZh5U8RbdXq0WaYvZBz2rbn)
+- [Building a RESTful API with Node.js by Academind](https://www.youtube.com/playlist?list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q)
+- [What is a REST API? by Telusko](https://www.youtube.com/watch?v=qVTAB8Z2VmA)
+- [REST and HTTP Explained by Traversy Media](https://www.youtube.com/watch?v=Q-BpqyOT3a8)
+
+---
 
 # Ruby 
 - [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
