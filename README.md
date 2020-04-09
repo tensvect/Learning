@@ -6,6 +6,12 @@ A comprehensive list of learning resources for Computer Science. By no means is 
 - [freeCodeCamp: 400+ Online Courses With Real College Credit That You Can Access For Free](https://www.freecodecamp.org/news/370-online-courses-with-real-college-credit-that-you-can-access-for-free-4fec5a28646/)
 
 ---
+# Beginners (with no prior CS background)
+- [HarvardX: CS50 Introduction to Computer Science ](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
+- [Introduction to Python - Datacamp](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+- [CS50's Web Programming with Python and JavaScript : Havard](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
+
+---
 
 # Alexa Tutorials
 - [Learn Alexa Skills by Codeacademy](https://www.codecademy.com/learn/learn-alexa)
