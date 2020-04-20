@@ -90,13 +90,14 @@ A comprehensive list of learning resources for Computer Science. By no means is 
 # Data Science
 - [IBM Data Science Professional Certificate](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)
 - [HarvardX's Data Science Professional Certificate](https://www.edx.org/professional-certificate/harvardx-data-science)
+- [ML COURSE.AI](https://mlcourse.ai/) 
 
 ---
 
 # Deep Learning 
 - [deeplearning.ai](https://www.deeplearning.ai/)
+- [Neural Networks and Deep Learning Book](http://neuralnetworksanddeeplearning.com/index.html) 
 - [Deep Learning by Kaggle](https://www.kaggle.com/learn/deep-learning/)
-- [Learn Deep Learning in 6 weeks by Siraj Raval](https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks)
 - [Top Deep Learning GitHub repositories](https://github.com/mbadry1/Top-Deep-Learning)
 - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 
@@ -244,6 +245,7 @@ You should start as per this road-map: Python, Mathematics, ML Basics, advanced 
 ## Machine Learning courses
 - [Stanford's Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
 - [University of Washington's Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning)
+- [fast.ai](https://www.fast.ai/) 
 - [MITx's Machine Learning with Python: From Linear Models to Deep Learning](https://courses.edx.org/courses/course-v1:MITx+6.86x+1T2019/course/)
 - [StatQuest's Machine Learning Series](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
 - [Machine Learning Nanodegree Program by Udacity](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
@@ -251,9 +253,8 @@ You should start as per this road-map: Python, Mathematics, ML Basics, advanced 
 - [Machine Learning with Python by Sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 - [Machine Learning Crash Course by Google](https://developers.google.com/machine-learning/crash-course/ml-intro)
 - [Kaggle](https://www.kaggle.com/competitions) - Highly recommended. Start playing around Titanic problem and strengthen your ML basics.
-- [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) 
 - [KDnuggets](https://www.kdnuggets.com/) 
-- [Machine Learning Reipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
+- [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 
 
 ## Books
@@ -272,6 +273,7 @@ You should start as per this road-map: Python, Mathematics, ML Basics, advanced 
 - [NLP Fundamentals in Python by DataCamp](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python?utm_source=adwords_ppc&utm_campaignid=1455363063&utm_adgroupid=65083631908&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=1t3&utm_creative=278443377101&utm_targetid=dsa-498578052124&utm_loc_interest_ms=&utm_loc_physical_ms=1007788&gclid=Cj0KCQjwj_XpBRCCARIsAItJiuQDOjEmd6nHytxpe8rf2o6iDOIy5KUvLwnNY-pb5uEbvE2H7jOYGm8aAslbEALw_wcB)
 - [NLP by Coursera](https://www.coursera.org/learn/language-processing)
 - [Natural Language Processing by Udacity](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892)
+- [A Code First Introduction to NLP by fast.ai](https://www.fast.ai/2019/07/08/fastai-nlp/) 
 - [Friendly Introduction to Natural Language Processing](https://dev.to/jaydeepborkar/introduction-to-natural-language-processing-part-1--59gd) _(shameless self-promotion by [Jaydeep Borkar](https://github.com/jaydeepborkar))_
 
 ---
