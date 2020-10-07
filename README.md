@@ -212,6 +212,12 @@ A comprehensive list of learning resources for Computer Science. By no means is 
 ## Books
 - [Java: The Complete Reference by Herbert Schildt](https://amzn.to/2ZiRUpG)
 
+## Java Frameworks (Spring / Hibernate)
+- [Udemy](https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/)
+- [Spring-Telusko](https://youtu.be/If1Lw4pLLEo)
+- [Baeldung](https://www.baeldung.com/spring-boot )
+- [Integrating Hibernate and JPA with Spring Boot](https://www.springboottutorial.com/hibernate-jpa-tutorial-with-spring-boot-starter-jpa) 
+
 ---
 
 # JavaScript
